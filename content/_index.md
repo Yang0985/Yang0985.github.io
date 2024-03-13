@@ -70,7 +70,7 @@ sections:
           date_start: '2022-09-01' 
           date_end: '2025-07-01'
           description: Taught electronic engineering and researched semiconductor physics.
-      columns: '2'
+     columns: '2'
         - title: Undergraduate Student
           company: Nanyang Normal University
           company_url: 'https://www.nynu.edu.cn/'
