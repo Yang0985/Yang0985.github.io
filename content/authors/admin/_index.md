@@ -7,7 +7,7 @@ name_pronunciation: Shuai Yang
 
 # Full name (for SEO)
 first_name: Yang
-last_name: Shuai
+last_name: Shuai 
 
 # Status emoji
 status:
