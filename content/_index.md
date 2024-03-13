@@ -67,7 +67,7 @@ sections:
           company_url: 'https://www.huat.edu.cn/'
           company_logo: org-HA
           location: Shiyan
-          date_start: '2022-09-01'
+          date_start: '2022-09-01' 
           date_end: '2025-07-01'
           description: |2-
               Responsibilities include:
