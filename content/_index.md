@@ -69,11 +69,7 @@ sections:
           location: Shiyan
           date_start: '2022-09-01' 
           date_end: '2025-07-01'
-          description: |2-
-              Responsibilities include:
-              * Actively completing a graduate programme with an overall GPA of 3.56.
-              * Publish four high-level papers.
-              * Apply for five invention patents, utility models and software publications.
+          description: Taught electronic engineering and researched semiconductor physics.
         - title: Undergraduate Student
           company: Nanyang Normal University
           company_url: 'https://www.nynu.edu.cn/'
