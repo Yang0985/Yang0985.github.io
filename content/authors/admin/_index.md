@@ -118,10 +118,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Hello, everyone! I am Shuai Yang, and I am currently pursuing my master's degree in Machine Vision at Hubei Institute of Automotive Industry. I am honoured to receive </p>
-my Bachelor's degree in Automation from Nanyang Normal University. In the academic field, I have been actively engaged in machine vision research and have successfully </p> 
-published in several international and nationally renowned journals, including SCI Zone 1 and Zone 2 journals. In addition, I have had the opportunity to collaborate </p>
-with a leading research organisation in China on a project aimed at pinpointing minute defects by applying machine vision techniques and developing deep learning models.</p>
-I am actively seeking a PhD position in the field of financial vision/intelligent manufacturing and am equally keen to secure a summer research internship in this dynamic field. Any leads or referrals would be appreciated.
+<center>Hello, everyone! I am Shuai Yang, and I am currently pursuing my master's degree in Machine Vision at Hubei Institute of Automotive Industry. I am honoured to receive</center>
+<center>my Bachelor's degree in Automation from Nanyang Normal University. In the academic field, I have been actively engaged in machine vision research and have successfully</center>
+<center>published in several international and nationally renowned journals, including SCI Zone 1 and Zone 2 journals. In addition, I have had the opportunity to collaborate 
+with a leading research organisation in China on a project aimed at pinpointing minute defects by applying machine vision techniques and developing deep learning models.</center>
+<center>I am actively seeking a PhD position in the field of financial vision/intelligent manufacturing and am equally keen to secure a summer research internship in this dynamic field. Any leads or referrals would be appreciated.</center>
 
