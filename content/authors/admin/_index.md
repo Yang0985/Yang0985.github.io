@@ -1,13 +1,13 @@
 ---
 # Display name
-title: yang shuai
+title: Yang Shuai
 
 # Name pronunciation (optional)
 name_pronunciation: Shuai Yang
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Yang
+last_name: Shuai
 
 # Status emoji
 status:
