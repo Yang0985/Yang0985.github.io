@@ -1,6 +1,6 @@
 ---
 # Display name
-title: yangshuai
+title: yang shuai
 
 # Name pronunciation (optional)
 name_pronunciation: Shuai Yang
