@@ -98,7 +98,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org  
           date_end: ''
           date_start: '2023-01-25'
           description: 'Participated in the "Cloud Speak New Technology" competition organized by the Chinese Society of Mechanical Engineering, and my participation in the work "Talking about Deep Learning" won the National Bronze Prize and the Silver Prize in Hubei Province '
