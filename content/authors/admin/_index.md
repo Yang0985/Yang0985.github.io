@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨帅
+title: yangshuai
 
 # Name pronunciation (optional)
 name_pronunciation: Shuai Yang
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course:  Master of Intelligent Manufacturing,
+    - course:  Master of Intelligent Manufacturing
       institution: Hubei Automobile Industry College
       year: 2025
     - course: Automation Degree
