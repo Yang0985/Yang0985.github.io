@@ -3,7 +3,7 @@
 title: Yang Shuai
 
 # Name pronunciation (optional)
-name_pronunciation: Shuai Yang
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yang
