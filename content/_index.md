@@ -81,8 +81,11 @@ sections:
           location: Nanyang
           date_start: '2018-09-01'
           date_end: '2022-07-01'
-          description: Completion of undergraduate degree with extensive experience
-    design:
+          |2-
+              Responsibilities include:
+              * Actively completing a graduate programme with an overall GPA of 3.56.
+              * Publish four high-level papers.
+              * Apply for five invention patents, utility models and software publications.
       columns: '2'
   - block: accomplishments
     content:
