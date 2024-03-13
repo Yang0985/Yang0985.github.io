@@ -120,6 +120,6 @@ highlight_name: true
 ---
 
 Hello everyone! I am **[Yang Shu](https://github.com/Yang0985/Yang0985.github.io/static/uploads/resume.pdf)**, currently pursuing my master's degree in machine vision at Wuhan University. It is a privilege to hold a Bachelor's degree in Automation from Wuhan University of Technology, and I am proud to share that my postgraduate journey has been marked with noteworthy academic achievements. In the realm of academics, I have been actively engaged in research endeavors and have successfully published articles in several internationally recognized journals, including those categorized in SCI Region I and Region II. Additionally, I had the opportunity to collaborate with a leading Chinese research institute on a project that aimed to pinpoint tiny defects through the application of machine vision technology and the development of deep learning models. 
-I am actively seeking PhD position in the field of vision/intelligent manufacturing for Finance, and I am equally eager to secure summer research internship opportunities in this dynamic area. Any leads or introductions would be greatly appreciated.（加一个链接，转到我简历的pdf）
+I am actively seeking PhD position in the field of vision/intelligent manufacturing for Finance, and I am equally eager to secure summer research internship opportunities in this dynamic area. Any leads or introductions would be greatly appreciated.
 
 {style="text-align: justify;"}
