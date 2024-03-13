@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 杨树
+title: 杨帅
 
 # Name pronunciation (optional)
-name_pronunciation: Shu Yang
+name_pronunciation: Shuai Yang
 
 # Full name (for SEO)
 first_name: 
@@ -21,8 +21,8 @@ role: Master of Intelligent Manufacturing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: WuHan University
-    url: https://www.whu.edu.cn/
+  - name: Hubei Automobile Industry College
+    url: https://www.huat.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -38,10 +38,10 @@ interests:
 education:
   courses:
     - course:  Master of Intelligent Manufacturing,
-      institution: Wuhan University
+      institution: Hubei Automobile Industry College
       year: 2025
     - course: Automation Degree
-      institution: Wuhan University of Technology
+      institution: Nanyang Normal University
       year: 2018
 
 
@@ -119,7 +119,7 @@ social:
 highlight_name: true
 ---
 
-Hello everyone! I am **[Yang Shu](https://github.com/Yang0985/Yang0985.github.io/static/uploads/resume.pdf)**, currently pursuing my master's degree in machine vision at Wuhan University. It is a privilege to hold a Bachelor's degree in Automation from Wuhan University of Technology, and I am proud to share that my postgraduate journey has been marked with noteworthy academic achievements. In the realm of academics, I have been actively engaged in research endeavors and have successfully published articles in several internationally recognized journals, including those categorized in SCI Region I and Region II. Additionally, I had the opportunity to collaborate with a leading Chinese research institute on a project that aimed to pinpoint tiny defects through the application of machine vision technology and the development of deep learning models. 
+Hello everyone! I am **[Yang Shu], currently pursuing my master's degree in machine vision at Wuhan University. It is a privilege to hold a Bachelor's degree in Automation from Wuhan University of Technology, and I am proud to share that my postgraduate journey has been marked with noteworthy academic achievements. In the realm of academics, I have been actively engaged in research endeavors and have successfully published articles in several internationally recognized journals, including those categorized in SCI Region I and Region II. Additionally, I had the opportunity to collaborate with a leading Chinese research institute on a project that aimed to pinpoint tiny defects through the application of machine vision technology and the development of deep learning models. 
 I am actively seeking PhD position in the field of vision/intelligent manufacturing for Finance, and I am equally eager to secure summer research internship opportunities in this dynamic area. Any leads or introductions would be greatly appreciated.
 
 {style="text-align: justify;"}
