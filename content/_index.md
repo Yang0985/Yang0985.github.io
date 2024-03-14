@@ -65,22 +65,22 @@ sections:
         - title: Master's Degree Student
           company: Hubei Automobile Industry College
           company_url: 'https://www.huat.edu.cn/'
-          company_logo: org-HA
+          company_logo: org-H
           location: ShiYan
           date_start: '2022-09-01'
           date_end: '2025-07-01'
           description: |2-
               Responsibilities include:
-              * Analysing
+              * Active completion of the academic program during the first year of study with an overall GPA of 3.5
               * Modelling
               * Deploying
         - title: Undergraduate Student
           company: Nanyang Normal University
           company_url: 'https://www.nynu.edu.cn/'
-          company_logo: org-UN
+          company_logo: org-U
           location: ShiYan
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2018-09-01'
+          date_end: '2022-07-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -110,9 +110,9 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
-               * Won the National Award of Excellence in China Engineering Robotics Competition and International Open Competition.
-               * Won the National Second Prize n the ERCC-Chinese Educational Robotics Competition.
-               * Won the National Second Prize in the China Engineering Robotics Competition and International Open Competition.
+               * Won the National Award of Excellence in China Engineering Robotics and International Open Competition.
+               * Won the National Second Prize in the ERCC-Chinese Educational Robotics Competition.
+               * Won the National Second Prize in the China Engineering Robotics and International Open Competition.
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
