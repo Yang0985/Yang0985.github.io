@@ -65,7 +65,7 @@ sections:
         - title: AAAA
           company: ALIYUN
           company_url: 'https://www.huat.edu.cn/'
-          company_logo: org-H
+          company_logo: org-x
           location: ShiYan
           date_start: '2022-09-01'
           date_end: '2025-07-01'
@@ -78,7 +78,7 @@ sections:
         - title: Undergraduate Student
           company: Nanyang Normal University
           company_url: 'https://www.nynu.edu.cn/'
-          company_logo: org-U
+          company_logo: org-gc
           location: ShiYan
           date_start: '2018-09-01'
           date_end: '2022-07-01'
