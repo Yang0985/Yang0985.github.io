@@ -71,6 +71,7 @@ sections:
           date_end: '2025-07-01'
           description: |2-
               Responsibilities include:
+    
               * Active completion of the academic program during the first year of study with an overall GPA of 3.5
               * Published several academic papers on machine vision。
               * Applied for several national patents for inventions, utility models and software works.
