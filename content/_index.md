@@ -238,8 +238,8 @@ sections:
         city: ShiYan
         region: HuBei
         postcode: '442002'
-        country: China
-        country_code:CN
+        country:  China
+        country_code: CN
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #     office_hours:
 #       - 'Monday 10:00 to 13:00'
