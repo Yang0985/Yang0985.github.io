@@ -238,11 +238,11 @@ sections:
       phone: 18337092985
 #      appointment_url: 'https://calendly.com'
       address:
-        street: No. 167 Checheng West Road
+        street: No.167 Checheng West Road
         city: ShiYan
         region: HuBei
         postcode: '442002'
-        country:  China
+        country: China
         country_code: CN
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #     office_hours:
@@ -250,8 +250,8 @@ sections:
 #        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '31°30′'
-        longitude: '109°29'  
+        latitude: '31.30′'
+        longitude: '109.29'  
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
@@ -266,7 +266,7 @@ sections:
 #          name: Zoom Me
 #          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+#      autolink: true
       # Email form provider
 #      form:
 #        provider: netlify
