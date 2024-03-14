@@ -61,7 +61,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+      items: 
         - title: Master's Degree Student
           company: Hubei Automobile Industry College
           company_url: 'https://www.huat.edu.cn/'
