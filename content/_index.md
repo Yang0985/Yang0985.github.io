@@ -72,8 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
               * Active completion of the academic program during the first year of study with an overall GPA of 3.5
-              * Modelling
-              * Deploying
+              * Published several academic papers on machine vision。
+              * Applied for several national patents for inventions, utility models and software works.
         - title: Undergraduate Student
           company: Nanyang Normal University
           company_url: 'https://www.nynu.edu.cn/'
@@ -81,7 +81,7 @@ sections:
           location: ShiYan
           date_start: '2018-09-01'
           date_end: '2022-07-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Completion of undergraduate academic program and participation in multiple competitions.
     design:
       columns: '2'
   - block: accomplishments
