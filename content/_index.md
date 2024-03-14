@@ -231,23 +231,23 @@ sections:
         Contact Me.
       # Contact (add or remove contact options as necessary)
       email: 793132180@qq.com
-      phone: 888 888 88 88
+      phone: 18337092985
 #      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: No. 167 Checheng West Road
+        city: ShiYan
+        region: HuBei
+        postcode: '442002'
+        country: China
+        country_code:CN
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #     office_hours:
 #       - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '30.53786'
-        longitude: '114.365248'  
+        latitude: '31°30′'
+        longitude: '109°29'  
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
