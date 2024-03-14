@@ -100,7 +100,10 @@ sections:
         - certificate_url: https://www.coursera.org  
           date_end: ''
           date_start: '2023-01-25'
-          description: 'Participated in the "Cloud Speak New Technology" competition organized by the Chinese Society of Mechanical Engineering, and my participation in the work "Talking about Deep Learning" won the National Bronze Prize and the Silver Prize in Hubei Province '
+          description: |2-
+               * Won the National Award of Excellence in China Engineering Robotics and International Open Competition.
+               * Won the National Second Prize in the ERCC-Chinese Educational Robotics Competition.
+               * Won the National Second Prize in the China Engineering Robotics and International Open Competition.
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
