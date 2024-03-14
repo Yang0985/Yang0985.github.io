@@ -62,8 +62,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items: 
-        - title: AAAA
-          company: ALIYUN
+        - title: Master's Degree Student
+          company: Hubei Automobile Industry College
           company_url: 'https://www.huat.edu.cn/'
           company_logo: org-x
           location: ShiYan
