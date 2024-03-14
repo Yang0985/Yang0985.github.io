@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items: 
         - title: AAAA
-          company: Hubei Automobile Industry College
+          company: ALIYUN
           company_url: 'https://www.huat.edu.cn/'
           company_logo: org-H
           location: ShiYan
