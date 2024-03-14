@@ -66,7 +66,7 @@ sections:
           company: Hubei Automobile Industry College
           company_url: 'https://www.huat.edu.cn/'
           company_logo: org-HA
-          location: shiyan
+          location: ShiYan
           date_start: '2022-09-01'
           date_end: '2025-07-01'
           description: |2-
@@ -78,7 +78,7 @@ sections:
           company: Nanyang Normal University
           company_url: 'https://www.nynu.edu.cn/'
           company_logo: org-UN
-          location: nanyang
+          location:Nanyangg
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
